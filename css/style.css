@@ -1866,7 +1866,8 @@ button{ border:none;}
 
 /* ----------------- Page Header ----------------- */
 .page_header{
-	background:url(../images/services_background5.jpg) no-repeat;
+	background:url(../images/back_services1.jpg) no-repeat;
+	background-size: cover;
 	padding:110px 0;
 }
 .page_header, .page_header p{ color:#fff;}
