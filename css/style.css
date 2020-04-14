@@ -722,7 +722,7 @@ header.layout_second, .layout_second nav.navbar.bootsnav{
 	background:#2b2d42;
 }
 .layout_dark, .layout_dark nav.navbar.bootsnav{
-	background:#2e363a;
+	background:#252323;
 }
  .layout_first nav.navbar.bootsnav{
 	border-bottom-left-radius:4px;
@@ -1866,7 +1866,7 @@ button{ border:none;}
 
 /* ----------------- Page Header ----------------- */
 .page_header{
-	background:url(../images/page-header.jpg) no-repeat;
+	background:url(../images/services_background5.jpg) no-repeat;
 	padding:110px 0;
 }
 .page_header, .page_header p{ color:#fff;}
@@ -2711,4 +2711,26 @@ nav.navbar.bootsnav ul.nav > li > a.border:before{
         width: 20%;
         float: left;
     }
+}
+
+.service-div {
+	height: 600px;
+	position: relative;
+}
+
+.service-learn-more {
+	position: absolute;
+	bottom: 15px;
+	left: 15px;
+}
+
+.service-title {
+	margin-bottom: 20px;
+	height: 40px;
+}
+
+.service-image { 
+	height: 370px;
+	width: 344px;
+	object-fit: cover;
 }
