@@ -777,7 +777,7 @@ nav.navbar.bootsnav ul.nav > li > a{
 	font-size:13px;
 	text-transform:uppercase;
 	position:relative;
-	color:#000000;
+	color: #fff;
 	padding:34px 12px;
 }
 .layout_first nav.navbar.bootsnav ul.nav > li > a{
