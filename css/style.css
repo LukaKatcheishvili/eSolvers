@@ -2741,3 +2741,13 @@ nav.navbar.bootsnav ul.nav > li > a.border:before{
 	width: 100%;
 	height: 332px;
 }
+
+.stack-icon {
+	height: 50px;
+	width: auto;
+	margin-bottom: 2%;
+}
+
+.stack-icon-box {
+	height: 200px!important;
+}
