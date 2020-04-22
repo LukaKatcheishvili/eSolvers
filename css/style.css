@@ -2636,9 +2636,6 @@ nav.navbar.bootsnav ul.nav > li > a.border:before{
 .page_header h1 {
   font-size: 30px;
 }
-.services ul.tabs{
-	display:none;
-}
 .services .tab_drawer_heading{
  	display:block;
 }
